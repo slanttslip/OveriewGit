@@ -9,4 +9,6 @@ public class Om{
     public Om(){System.out.println("A fost apelat constructorul de baza");}
 
    public void ShowSomething(){System.out.println("THIS is AN OM");}
+
+   public void ihaveditedSomething(){}
 }
